@@ -1,0 +1,305 @@
+[guruLsp]2025/11/07 23:33:28 main.go:16: Logger is initialised
+[guruLsp]2025/11/07 23:33:28 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/07 23:33:28 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/07 23:33:28 main.go:63: Sent initialize response response
+[guruLsp]2025/11/07 23:33:28 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/07 23:33:30 main.go:67: Recieved Method: textDocument/didOpen 
+[guruLsp]2025/11/07 23:33:30 main.go:82: Opened file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/07 23:33:33 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/07 23:33:33 main.go:89: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/07 23:33:33 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/07 23:33:33 main.go:89: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/07 23:33:33 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/07 23:33:33 main.go:89: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/07 23:33:34 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/07 23:33:34 main.go:89: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/07 23:33:35 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/07 23:33:35 main.go:89: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/07 23:33:38 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/07 23:33:38 main.go:89: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/07 23:33:38 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/07 23:33:38 main.go:89: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/07 23:33:39 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/07 23:33:39 main.go:89: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/07 23:33:39 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/07 23:33:39 main.go:89: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/07 23:33:39 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/07 23:33:39 main.go:89: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/07 23:33:40 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/07 23:33:40 main.go:89: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/07 23:33:41 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/07 23:33:41 main.go:89: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/07 23:33:42 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/07 23:33:42 main.go:89: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/07 23:33:42 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/07 23:33:42 main.go:89: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/07 23:33:43 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/07 23:33:43 main.go:89: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/07 23:33:45 main.go:67: Recieved Method: textDocument/didSave 
+[guruLsp]2025/11/07 23:33:45 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/07 23:33:49 main.go:16: Logger is initialised
+[guruLsp]2025/11/07 23:33:49 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/07 23:33:49 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/07 23:33:49 main.go:63: Sent initialize response response
+[guruLsp]2025/11/07 23:33:49 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/07 23:34:09 main.go:16: Logger is initialised
+[guruLsp]2025/11/07 23:34:09 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/07 23:34:09 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/07 23:34:09 main.go:63: Sent initialize response response
+[guruLsp]2025/11/07 23:34:09 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/07 23:34:10 main.go:67: Recieved Method: textDocument/didOpen 
+[guruLsp]2025/11/07 23:34:10 main.go:82: Opened file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/07 23:34:14 main.go:67: Recieved Method: textDocument/codeAction 
+[guruLsp]2025/11/07 23:34:14 main.go:133: Code Action request for file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/07 23:34:14 main.go:63: Sent code action response response
+[guruLsp]2025/11/07 23:34:17 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/07 23:34:17 main.go:89: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/07 23:34:18 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/07 23:34:18 main.go:89: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/07 23:34:18 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/07 23:34:18 main.go:89: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/07 23:34:19 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/07 23:34:19 main.go:89: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/07 23:34:20 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/07 23:34:20 main.go:89: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/07 23:34:20 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/07 23:34:20 main.go:89: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/07 23:34:20 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/07 23:34:20 main.go:89: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/07 23:34:20 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/07 23:34:20 main.go:89: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/07 23:34:22 main.go:67: Recieved Method: textDocument/codeAction 
+[guruLsp]2025/11/07 23:34:22 main.go:133: Code Action request for file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/07 23:34:22 main.go:63: Sent code action response response
+[guruLsp]2025/11/07 23:34:24 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/07 23:34:24 main.go:89: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/07 23:34:25 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/07 23:34:25 main.go:89: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/07 23:34:29 main.go:67: Recieved Method: textDocument/hover 
+[guruLsp]2025/11/07 23:34:29 main.go:99: Hover request for file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/07 23:34:29 main.go:63: Sent hover response response
+[guruLsp]2025/11/07 23:34:29 main.go:67: Recieved Method: textDocument/didOpen 
+[guruLsp]2025/11/07 23:34:29 main.go:82: Opened file: file://
+[guruLsp]2025/11/07 23:34:30 main.go:67: Recieved Method: textDocument/didClose 
+[guruLsp]2025/11/07 23:34:32 main.go:67: Recieved Method: textDocument/definition 
+[guruLsp]2025/11/07 23:34:32 main.go:116: Definition request for file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/07 23:34:32 main.go:63: Sent definition response response
+[guruLsp]2025/11/07 23:34:34 main.go:67: Recieved Method: textDocument/didSave 
+[guruLsp]2025/11/07 23:34:38 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/07 23:34:39 main.go:16: Logger is initialised
+[guruLsp]2025/11/07 23:34:39 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/07 23:34:39 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/07 23:34:39 main.go:63: Sent initialize response response
+[guruLsp]2025/11/07 23:34:39 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/07 23:35:57 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/07 23:35:59 main.go:16: Logger is initialised
+[guruLsp]2025/11/07 23:35:59 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/07 23:35:59 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/07 23:35:59 main.go:63: Sent initialize response response
+[guruLsp]2025/11/07 23:35:59 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/07 23:37:27 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/07 23:37:33 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/07 23:37:34 main.go:16: Logger is initialised
+[guruLsp]2025/11/07 23:37:34 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/07 23:37:34 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/07 23:37:34 main.go:63: Sent initialize response response
+[guruLsp]2025/11/07 23:37:34 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/07 23:37:35 main.go:67: Recieved Method: textDocument/didOpen 
+[guruLsp]2025/11/07 23:37:35 main.go:82: Opened file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/07 23:37:38 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/07 23:37:38 main.go:89: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/07 23:37:38 main.go:67: Recieved Method: textDocument/completion 
+[guruLsp]2025/11/07 23:37:38 main.go:149: Completion request for file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/07 23:37:38 main.go:63: Sent completion response response
+[guruLsp]2025/11/07 23:37:40 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/07 23:37:40 main.go:89: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/07 23:37:41 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/07 23:37:41 main.go:89: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/07 23:37:41 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/07 23:37:41 main.go:89: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/07 23:37:41 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/07 23:37:41 main.go:89: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/07 23:37:41 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/07 23:37:41 main.go:89: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/07 23:37:42 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/07 23:37:42 main.go:89: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/07 23:37:42 main.go:67: Recieved Method: textDocument/completion 
+[guruLsp]2025/11/07 23:37:42 main.go:149: Completion request for file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/07 23:37:42 main.go:63: Sent completion response response
+[guruLsp]2025/11/07 23:37:42 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/07 23:37:42 main.go:89: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/07 23:37:42 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/07 23:37:42 main.go:89: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/07 23:37:43 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/07 23:37:43 main.go:89: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/07 23:37:43 main.go:67: Recieved Method: textDocument/completion 
+[guruLsp]2025/11/07 23:37:43 main.go:149: Completion request for file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/07 23:37:43 main.go:63: Sent completion response response
+[guruLsp]2025/11/07 23:37:43 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/07 23:37:43 main.go:89: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/07 23:37:44 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/07 23:37:44 main.go:89: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/07 23:37:44 main.go:67: Recieved Method: textDocument/completion 
+[guruLsp]2025/11/07 23:37:44 main.go:149: Completion request for file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/07 23:37:44 main.go:63: Sent completion response response
+[guruLsp]2025/11/07 23:37:45 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/07 23:37:45 main.go:89: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/07 23:37:45 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/07 23:37:45 main.go:89: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/07 23:37:45 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/07 23:37:45 main.go:89: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/07 23:37:46 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/07 23:37:46 main.go:89: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/07 23:37:46 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/07 23:37:46 main.go:89: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/07 23:37:55 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/07 23:37:58 main.go:16: Logger is initialised
+[guruLsp]2025/11/07 23:37:58 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/07 23:37:58 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/07 23:37:58 main.go:63: Sent initialize response response
+[guruLsp]2025/11/07 23:37:59 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/07 23:38:16 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/07 23:38:58 main.go:16: Logger is initialised
+[guruLsp]2025/11/07 23:38:58 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/07 23:38:58 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/07 23:38:58 main.go:63: Sent initialize response response
+[guruLsp]2025/11/07 23:38:58 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/07 23:39:01 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/07 23:40:25 main.go:16: Logger is initialised
+[guruLsp]2025/11/07 23:40:25 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/07 23:40:25 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/07 23:40:25 main.go:63: Sent initialize response response
+[guruLsp]2025/11/07 23:40:25 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/07 23:46:50 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/07 23:46:52 main.go:16: Logger is initialised
+[guruLsp]2025/11/07 23:46:52 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/07 23:46:52 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/07 23:46:52 main.go:63: Sent initialize response response
+[guruLsp]2025/11/07 23:46:52 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/07 23:54:19 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/07 23:54:29 main.go:16: Logger is initialised
+[guruLsp]2025/11/07 23:54:29 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/07 23:54:29 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/07 23:54:29 main.go:63: Sent initialize response response
+[guruLsp]2025/11/07 23:54:29 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/07 23:55:37 main.go:16: Logger is initialised
+[guruLsp]2025/11/07 23:55:37 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/07 23:55:37 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/07 23:55:37 main.go:63: Sent initialize response response
+[guruLsp]2025/11/07 23:55:37 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/07 23:55:38 main.go:67: Recieved Method: textDocument/didOpen 
+[guruLsp]2025/11/07 23:55:38 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/07 23:55:42 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/07 23:55:42 main.go:99: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/07 23:55:42 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/07 23:55:42 main.go:67: Recieved Method: textDocument/completion 
+[guruLsp]2025/11/07 23:55:42 main.go:170: Completion request for file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/07 23:55:42 main.go:63: Sent completion response response
+[guruLsp]2025/11/07 23:55:42 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/07 23:55:42 main.go:99: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/07 23:55:42 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/07 23:55:43 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/07 23:55:43 main.go:99: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/07 23:55:43 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/07 23:55:43 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/07 23:55:43 main.go:99: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/07 23:55:43 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/07 23:55:43 main.go:67: Recieved Method: textDocument/completion 
+[guruLsp]2025/11/07 23:55:43 main.go:170: Completion request for file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/07 23:55:43 main.go:63: Sent completion response response
+[guruLsp]2025/11/07 23:55:43 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/07 23:55:43 main.go:99: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/07 23:55:43 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/07 23:55:44 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/07 23:55:44 main.go:99: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/07 23:55:44 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/07 23:55:44 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/07 23:55:44 main.go:99: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/07 23:55:44 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/07 23:56:14 main.go:67: Recieved Method: textDocument/didSave 
+[guruLsp]2025/11/07 23:56:14 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/07 23:57:16 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/07 23:57:19 main.go:16: Logger is initialised
+[guruLsp]2025/11/07 23:57:19 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/07 23:57:19 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/07 23:57:19 main.go:63: Sent initialize response response
+[guruLsp]2025/11/07 23:57:19 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/07 23:57:20 main.go:67: Recieved Method: textDocument/didOpen 
+[guruLsp]2025/11/07 23:57:20 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/07 23:57:31 main.go:16: Logger is initialised
+[guruLsp]2025/11/07 23:57:31 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/07 23:57:31 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/07 23:57:31 main.go:63: Sent initialize response response
+[guruLsp]2025/11/07 23:57:31 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/07 23:57:47 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/07 23:57:51 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/07 23:57:52 main.go:16: Logger is initialised
+[guruLsp]2025/11/07 23:57:52 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/07 23:57:52 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/07 23:57:52 main.go:63: Sent initialize response response
+[guruLsp]2025/11/07 23:57:52 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/07 23:57:53 main.go:67: Recieved Method: textDocument/didOpen 
+[guruLsp]2025/11/07 23:57:53 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/07 23:57:55 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/07 23:57:55 main.go:99: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/07 23:57:55 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/07 23:57:56 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/07 23:57:56 main.go:99: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/07 23:57:56 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/07 23:57:56 main.go:67: Recieved Method: textDocument/completion 
+[guruLsp]2025/11/07 23:57:56 main.go:170: Completion request for file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/07 23:57:56 main.go:63: Sent completion response response
+[guruLsp]2025/11/07 23:57:57 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/07 23:57:57 main.go:99: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/07 23:57:57 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/07 23:57:57 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/07 23:57:57 main.go:99: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/07 23:57:57 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/07 23:57:57 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/07 23:57:57 main.go:99: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/07 23:57:57 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/07 23:57:57 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/07 23:57:57 main.go:99: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/07 23:57:57 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/07 23:57:57 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/07 23:57:57 main.go:99: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/07 23:57:57 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/07 23:57:58 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/07 23:57:58 main.go:99: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/07 23:57:58 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/07 23:58:01 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/07 23:58:01 main.go:99: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/07 23:58:01 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/07 23:58:01 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/07 23:58:01 main.go:99: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/07 23:58:01 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/07 23:58:01 main.go:67: Recieved Method: textDocument/completion 
+[guruLsp]2025/11/07 23:58:01 main.go:170: Completion request for file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/07 23:58:01 main.go:63: Sent completion response response
+[guruLsp]2025/11/07 23:58:01 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/07 23:58:01 main.go:99: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/07 23:58:01 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/07 23:58:01 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/07 23:58:01 main.go:99: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/07 23:58:01 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/07 23:58:01 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/07 23:58:01 main.go:99: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/07 23:58:01 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/07 23:58:02 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/07 23:58:02 main.go:99: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/07 23:58:02 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/07 23:58:02 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/07 23:58:02 main.go:99: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/07 23:58:02 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/07 23:58:02 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/07 23:58:02 main.go:99: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/07 23:58:02 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/07 23:58:06 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/07 23:58:06 main.go:99: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/07 23:58:06 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/07 23:58:07 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/07 23:58:07 main.go:99: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/07 23:58:07 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/07 23:58:08 main.go:67: Recieved Method: textDocument/didSave 
+[guruLsp]2025/11/07 23:58:11 main.go:67: Recieved Method: textDocument/didSave 
+[guruLsp]2025/11/07 23:58:11 main.go:67: Recieved Method: shutdown 

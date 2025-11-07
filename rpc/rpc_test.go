@@ -47,6 +47,13 @@ func TestDecodeMessage(t *testing.T) {
 			23,
 			false,
 		},
+		{
+			"Test with extra header",
+			[]byte("Content-Length: 23\r\nContent-Type: application/vscode-jsonrpc; charset=utf-8\r\n\r\n{\"method\":\"completion\"}"),
+			"completion",
+			23,
+			false,
+		},
 	}
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
