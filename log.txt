@@ -1202,3 +1202,1157 @@
 [guruLsp]2025/11/11 23:31:10 main.go:63: Sent initialize response response
 [guruLsp]2025/11/11 23:31:10 main.go:67: Recieved Method: initialized 
 [guruLsp]2025/11/11 23:33:50 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/12 16:27:59 main.go:16: Logger is initialised
+[guruLsp]2025/11/12 16:27:59 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/12 16:27:59 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/12 16:27:59 main.go:63: Sent initialize response response
+[guruLsp]2025/11/12 16:27:59 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/12 16:54:48 main.go:67: Recieved Method: textDocument/didOpen 
+[guruLsp]2025/11/12 16:54:48 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/12 16:54:50 main.go:67: Recieved Method: textDocument/didClose 
+[guruLsp]2025/11/12 18:36:54 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/12 18:37:02 main.go:16: Logger is initialised
+[guruLsp]2025/11/12 18:37:02 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/12 18:37:02 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/12 18:37:02 main.go:63: Sent initialize response response
+[guruLsp]2025/11/12 18:37:02 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/12 19:01:22 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/12 19:01:30 main.go:16: Logger is initialised
+[guruLsp]2025/11/12 19:01:30 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/12 19:01:30 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/12 19:01:30 main.go:63: Sent initialize response response
+[guruLsp]2025/11/12 19:01:30 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/12 20:27:57 main.go:67: Recieved Method: textDocument/didOpen 
+[guruLsp]2025/11/12 20:27:57 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/12 20:27:59 main.go:67: Recieved Method: textDocument/didClose 
+[guruLsp]2025/11/12 20:28:02 main.go:67: Recieved Method: textDocument/didOpen 
+[guruLsp]2025/11/12 20:28:02 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/12 20:28:09 main.go:67: Recieved Method: textDocument/didClose 
+[guruLsp]2025/11/12 21:12:23 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/12 21:14:07 main.go:16: Logger is initialised
+[guruLsp]2025/11/12 21:14:07 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/12 21:14:07 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/12 21:14:07 main.go:63: Sent initialize response response
+[guruLsp]2025/11/12 21:14:07 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/12 21:39:21 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/12 21:39:24 main.go:16: Logger is initialised
+[guruLsp]2025/11/12 21:39:24 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/12 21:39:24 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/12 21:39:24 main.go:63: Sent initialize response response
+[guruLsp]2025/11/12 21:39:24 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/12 21:39:36 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/12 21:39:37 main.go:16: Logger is initialised
+[guruLsp]2025/11/12 21:39:37 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/12 21:39:37 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/12 21:39:37 main.go:63: Sent initialize response response
+[guruLsp]2025/11/12 21:39:37 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/12 21:39:43 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/12 21:39:45 main.go:16: Logger is initialised
+[guruLsp]2025/11/12 21:39:45 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/12 21:39:45 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/12 21:39:45 main.go:63: Sent initialize response response
+[guruLsp]2025/11/12 21:39:45 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/12 21:40:15 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/12 21:40:19 main.go:16: Logger is initialised
+[guruLsp]2025/11/12 21:40:19 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/12 21:40:19 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/12 21:40:19 main.go:63: Sent initialize response response
+[guruLsp]2025/11/12 21:40:19 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/13 16:16:24 main.go:16: Logger is initialised
+[guruLsp]2025/11/13 16:16:24 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/13 16:16:24 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/13 16:16:24 main.go:63: Sent initialize response response
+[guruLsp]2025/11/13 16:16:24 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/13 16:16:27 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/13 19:14:27 main.go:16: Logger is initialised
+[guruLsp]2025/11/13 19:14:27 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/13 19:14:27 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/13 19:14:27 main.go:63: Sent initialize response response
+[guruLsp]2025/11/13 19:14:27 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/13 19:15:29 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/13 19:15:46 main.go:16: Logger is initialised
+[guruLsp]2025/11/13 19:15:46 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/13 19:15:46 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/13 19:15:46 main.go:63: Sent initialize response response
+[guruLsp]2025/11/13 19:15:46 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/13 19:17:15 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/13 19:17:39 main.go:16: Logger is initialised
+[guruLsp]2025/11/13 19:17:39 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/13 19:17:39 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/13 19:17:39 main.go:63: Sent initialize response response
+[guruLsp]2025/11/13 19:17:39 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/13 19:18:07 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/13 19:19:36 main.go:16: Logger is initialised
+[guruLsp]2025/11/13 19:19:36 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/13 19:19:36 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/13 19:19:36 main.go:63: Sent initialize response response
+[guruLsp]2025/11/13 19:19:36 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/13 19:21:34 main.go:67: Recieved Method: textDocument/didOpen 
+[guruLsp]2025/11/13 19:21:34 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/13 19:21:35 main.go:67: Recieved Method: textDocument/didClose 
+[guruLsp]2025/11/13 19:25:16 main.go:67: Recieved Method: textDocument/didOpen 
+[guruLsp]2025/11/13 19:25:16 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/13 19:25:18 main.go:67: Recieved Method: textDocument/didClose 
+[guruLsp]2025/11/13 19:28:56 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/13 19:29:00 main.go:16: Logger is initialised
+[guruLsp]2025/11/13 19:29:00 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/13 19:29:00 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/13 19:29:00 main.go:63: Sent initialize response response
+[guruLsp]2025/11/13 19:29:00 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/13 19:44:00 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/13 19:44:03 main.go:16: Logger is initialised
+[guruLsp]2025/11/13 19:44:03 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/13 19:44:03 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/13 19:44:03 main.go:63: Sent initialize response response
+[guruLsp]2025/11/13 19:44:03 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/13 19:49:04 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/13 19:54:05 main.go:16: Logger is initialised
+[guruLsp]2025/11/13 19:54:05 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/13 19:54:05 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/13 19:54:05 main.go:63: Sent initialize response response
+[guruLsp]2025/11/13 19:54:06 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/13 19:54:24 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/13 19:54:26 main.go:16: Logger is initialised
+[guruLsp]2025/11/13 19:54:26 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/13 19:54:26 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/13 19:54:26 main.go:63: Sent initialize response response
+[guruLsp]2025/11/13 19:54:27 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/13 19:54:28 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/13 19:56:20 main.go:16: Logger is initialised
+[guruLsp]2025/11/13 19:56:20 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/13 19:56:20 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/13 19:56:20 main.go:63: Sent initialize response response
+[guruLsp]2025/11/13 19:56:20 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/13 19:57:05 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/13 19:58:10 main.go:16: Logger is initialised
+[guruLsp]2025/11/13 19:58:10 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/13 19:58:10 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/13 19:58:10 main.go:63: Sent initialize response response
+[guruLsp]2025/11/13 19:58:10 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/13 21:02:09 main.go:16: Logger is initialised
+[guruLsp]2025/11/13 21:02:09 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/13 21:02:09 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/13 21:02:09 main.go:63: Sent initialize response response
+[guruLsp]2025/11/13 21:02:09 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/13 21:02:16 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/13 21:34:10 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/13 21:34:17 main.go:16: Logger is initialised
+[guruLsp]2025/11/13 21:34:17 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/13 21:34:17 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/13 21:34:17 main.go:63: Sent initialize response response
+[guruLsp]2025/11/13 21:34:17 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/13 21:52:25 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/13 21:52:31 main.go:16: Logger is initialised
+[guruLsp]2025/11/13 21:52:31 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/13 21:52:31 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/13 21:52:31 main.go:63: Sent initialize response response
+[guruLsp]2025/11/13 21:52:31 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/13 21:52:40 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/13 22:07:11 main.go:16: Logger is initialised
+[guruLsp]2025/11/13 22:07:11 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/13 22:07:11 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/13 22:07:11 main.go:63: Sent initialize response response
+[guruLsp]2025/11/13 22:07:11 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/13 22:13:34 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/13 22:13:40 main.go:16: Logger is initialised
+[guruLsp]2025/11/13 22:13:40 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/13 22:13:40 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/13 22:13:40 main.go:63: Sent initialize response response
+[guruLsp]2025/11/13 22:13:41 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/13 22:13:51 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/13 22:13:54 main.go:16: Logger is initialised
+[guruLsp]2025/11/13 22:13:54 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/13 22:13:54 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/13 22:13:54 main.go:63: Sent initialize response response
+[guruLsp]2025/11/13 22:13:54 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/13 22:36:46 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/14 07:15:24 main.go:16: Logger is initialised
+[guruLsp]2025/11/14 07:15:24 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/14 07:15:24 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/14 07:15:24 main.go:63: Sent initialize response response
+[guruLsp]2025/11/14 07:15:24 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/14 07:17:12 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/14 07:17:32 main.go:16: Logger is initialised
+[guruLsp]2025/11/14 07:17:32 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/14 07:17:32 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/14 07:17:32 main.go:63: Sent initialize response response
+[guruLsp]2025/11/14 07:17:32 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/14 07:21:33 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/14 07:26:02 main.go:16: Logger is initialised
+[guruLsp]2025/11/14 07:26:02 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/14 07:26:02 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/14 07:26:02 main.go:63: Sent initialize response response
+[guruLsp]2025/11/14 07:26:02 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/14 07:48:09 main.go:16: Logger is initialised
+[guruLsp]2025/11/14 07:48:09 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/14 07:48:09 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/14 07:48:09 main.go:63: Sent initialize response response
+[guruLsp]2025/11/14 07:48:10 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/14 07:48:11 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/14 07:48:15 main.go:16: Logger is initialised
+[guruLsp]2025/11/14 07:48:15 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/14 07:48:15 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/14 07:48:15 main.go:63: Sent initialize response response
+[guruLsp]2025/11/14 07:48:15 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/14 07:48:21 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/14 07:48:25 main.go:16: Logger is initialised
+[guruLsp]2025/11/14 07:48:25 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/14 07:48:25 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/14 07:48:25 main.go:63: Sent initialize response response
+[guruLsp]2025/11/14 07:48:25 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/14 07:48:50 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/14 15:01:19 main.go:16: Logger is initialised
+[guruLsp]2025/11/14 15:01:19 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/14 15:01:19 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/14 15:01:19 main.go:63: Sent initialize response response
+[guruLsp]2025/11/14 15:01:19 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/14 15:07:18 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/14 15:07:19 main.go:16: Logger is initialised
+[guruLsp]2025/11/14 15:07:19 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/14 15:07:19 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/14 15:07:19 main.go:63: Sent initialize response response
+[guruLsp]2025/11/14 15:07:19 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/14 15:07:24 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/14 15:16:05 main.go:16: Logger is initialised
+[guruLsp]2025/11/14 15:16:05 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/14 15:16:05 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/14 15:16:05 main.go:63: Sent initialize response response
+[guruLsp]2025/11/14 15:16:05 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/14 15:18:22 main.go:16: Logger is initialised
+[guruLsp]2025/11/14 15:18:22 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/14 15:18:22 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/14 15:18:22 main.go:63: Sent initialize response response
+[guruLsp]2025/11/14 15:18:22 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/14 15:19:23 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/14 15:19:25 main.go:16: Logger is initialised
+[guruLsp]2025/11/14 15:19:25 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/14 15:19:25 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/14 15:19:25 main.go:63: Sent initialize response response
+[guruLsp]2025/11/14 15:19:25 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/14 15:19:29 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/14 15:19:31 main.go:16: Logger is initialised
+[guruLsp]2025/11/14 15:19:31 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/14 15:19:31 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/14 15:19:31 main.go:63: Sent initialize response response
+[guruLsp]2025/11/14 15:19:31 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/14 15:19:40 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/14 16:53:51 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/14 16:54:13 main.go:16: Logger is initialised
+[guruLsp]2025/11/14 16:54:13 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/14 16:54:13 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/14 16:54:13 main.go:63: Sent initialize response response
+[guruLsp]2025/11/14 16:54:13 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/14 17:03:35 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/14 17:10:30 main.go:16: Logger is initialised
+[guruLsp]2025/11/14 17:10:30 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/14 17:10:30 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/14 17:10:30 main.go:63: Sent initialize response response
+[guruLsp]2025/11/14 17:10:30 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/14 17:11:19 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/14 17:32:29 main.go:16: Logger is initialised
+[guruLsp]2025/11/14 17:32:29 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/14 17:32:29 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/14 17:32:29 main.go:63: Sent initialize response response
+[guruLsp]2025/11/14 17:32:29 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/14 19:22:23 main.go:16: Logger is initialised
+[guruLsp]2025/11/14 19:22:23 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/14 19:22:23 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/14 19:22:23 main.go:63: Sent initialize response response
+[guruLsp]2025/11/14 19:22:23 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/14 19:23:14 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/14 19:23:17 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/14 19:23:18 main.go:16: Logger is initialised
+[guruLsp]2025/11/14 19:23:18 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/14 19:23:18 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/14 19:23:18 main.go:63: Sent initialize response response
+[guruLsp]2025/11/14 19:23:18 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/14 20:24:19 main.go:16: Logger is initialised
+[guruLsp]2025/11/14 20:24:19 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/14 20:24:19 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/14 20:24:19 main.go:63: Sent initialize response response
+[guruLsp]2025/11/14 20:24:19 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/14 20:24:21 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/14 20:24:22 main.go:16: Logger is initialised
+[guruLsp]2025/11/14 20:24:22 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/14 20:24:22 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/14 20:24:22 main.go:63: Sent initialize response response
+[guruLsp]2025/11/14 20:24:22 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/14 21:00:31 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/14 21:01:19 main.go:16: Logger is initialised
+[guruLsp]2025/11/14 21:01:19 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/14 21:01:19 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/14 21:01:19 main.go:63: Sent initialize response response
+[guruLsp]2025/11/14 21:01:19 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/14 21:01:56 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/14 21:02:18 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/14 21:02:57 main.go:16: Logger is initialised
+[guruLsp]2025/11/14 21:02:57 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/14 21:02:57 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/14 21:02:57 main.go:63: Sent initialize response response
+[guruLsp]2025/11/14 21:02:57 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/14 21:23:39 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/15 12:09:54 main.go:16: Logger is initialised
+[guruLsp]2025/11/15 12:09:54 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/15 12:09:54 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/15 12:09:54 main.go:63: Sent initialize response response
+[guruLsp]2025/11/15 12:09:54 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/15 12:10:58 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/15 12:13:57 main.go:16: Logger is initialised
+[guruLsp]2025/11/15 12:13:57 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/15 12:13:57 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/15 12:13:57 main.go:63: Sent initialize response response
+[guruLsp]2025/11/15 12:13:57 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/15 12:14:31 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/15 12:14:39 main.go:16: Logger is initialised
+[guruLsp]2025/11/15 12:14:39 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/15 12:14:39 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/15 12:14:39 main.go:63: Sent initialize response response
+[guruLsp]2025/11/15 12:14:39 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/15 12:16:38 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/15 12:16:45 main.go:16: Logger is initialised
+[guruLsp]2025/11/15 12:16:45 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/15 12:16:45 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/15 12:16:45 main.go:63: Sent initialize response response
+[guruLsp]2025/11/15 12:16:45 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/15 12:19:57 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/15 12:20:00 main.go:16: Logger is initialised
+[guruLsp]2025/11/15 12:20:00 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/15 12:20:00 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/15 12:20:00 main.go:63: Sent initialize response response
+[guruLsp]2025/11/15 12:20:00 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/15 12:20:58 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/15 12:20:59 main.go:16: Logger is initialised
+[guruLsp]2025/11/15 12:20:59 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/15 12:20:59 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/15 12:20:59 main.go:63: Sent initialize response response
+[guruLsp]2025/11/15 12:20:59 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/15 14:06:23 main.go:16: Logger is initialised
+[guruLsp]2025/11/15 14:06:23 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/15 14:06:23 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/15 14:06:23 main.go:63: Sent initialize response response
+[guruLsp]2025/11/15 14:06:23 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/15 14:30:52 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/15 14:36:39 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/15 14:40:37 main.go:16: Logger is initialised
+[guruLsp]2025/11/15 14:40:37 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/15 14:40:37 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/15 14:40:37 main.go:63: Sent initialize response response
+[guruLsp]2025/11/15 14:40:37 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/15 14:41:39 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/15 14:50:30 main.go:16: Logger is initialised
+[guruLsp]2025/11/15 14:50:30 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/15 14:50:30 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/15 14:50:30 main.go:63: Sent initialize response response
+[guruLsp]2025/11/15 14:50:30 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/15 14:51:06 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/15 15:02:01 main.go:16: Logger is initialised
+[guruLsp]2025/11/15 15:02:01 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/15 15:02:01 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/15 15:02:01 main.go:63: Sent initialize response response
+[guruLsp]2025/11/15 15:02:01 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/15 15:02:43 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/15 15:26:03 main.go:16: Logger is initialised
+[guruLsp]2025/11/15 15:26:03 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/15 15:26:03 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/15 15:26:03 main.go:63: Sent initialize response response
+[guruLsp]2025/11/15 15:26:03 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/15 15:26:16 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/15 15:26:23 main.go:16: Logger is initialised
+[guruLsp]2025/11/15 15:26:23 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/15 15:26:23 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/15 15:26:23 main.go:63: Sent initialize response response
+[guruLsp]2025/11/15 15:26:23 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/15 15:26:41 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/15 15:29:47 main.go:16: Logger is initialised
+[guruLsp]2025/11/15 15:29:47 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/15 15:29:47 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/15 15:29:47 main.go:63: Sent initialize response response
+[guruLsp]2025/11/15 15:29:47 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/15 15:29:59 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/15 15:30:41 main.go:16: Logger is initialised
+[guruLsp]2025/11/15 15:30:41 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/15 15:30:41 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/15 15:30:41 main.go:63: Sent initialize response response
+[guruLsp]2025/11/15 15:30:41 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/15 15:30:47 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/15 15:33:41 main.go:16: Logger is initialised
+[guruLsp]2025/11/15 15:33:41 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/15 15:33:41 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/15 15:33:41 main.go:63: Sent initialize response response
+[guruLsp]2025/11/15 15:33:41 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/15 15:35:37 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/15 15:35:38 main.go:16: Logger is initialised
+[guruLsp]2025/11/15 15:35:38 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/15 15:35:38 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/15 15:35:38 main.go:63: Sent initialize response response
+[guruLsp]2025/11/15 15:35:38 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/15 15:35:47 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/15 15:37:17 main.go:16: Logger is initialised
+[guruLsp]2025/11/15 15:37:17 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/15 15:37:17 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/15 15:37:17 main.go:63: Sent initialize response response
+[guruLsp]2025/11/15 15:37:18 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/15 15:38:20 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/15 15:40:05 main.go:16: Logger is initialised
+[guruLsp]2025/11/15 15:40:05 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/15 15:40:05 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/15 15:40:05 main.go:63: Sent initialize response response
+[guruLsp]2025/11/15 15:40:05 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/15 15:40:11 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/15 15:41:16 main.go:16: Logger is initialised
+[guruLsp]2025/11/15 15:41:16 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/15 15:41:16 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/15 15:41:16 main.go:63: Sent initialize response response
+[guruLsp]2025/11/15 15:41:16 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/15 15:41:31 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/15 15:41:59 main.go:16: Logger is initialised
+[guruLsp]2025/11/15 15:41:59 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/15 15:41:59 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/15 15:41:59 main.go:63: Sent initialize response response
+[guruLsp]2025/11/15 15:41:59 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/15 15:42:07 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/15 17:53:59 main.go:16: Logger is initialised
+[guruLsp]2025/11/15 17:53:59 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/15 17:53:59 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/15 17:53:59 main.go:63: Sent initialize response response
+[guruLsp]2025/11/15 17:54:00 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/15 17:54:48 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/15 21:44:43 main.go:16: Logger is initialised
+[guruLsp]2025/11/15 21:44:43 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/15 21:44:43 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/15 21:44:43 main.go:63: Sent initialize response response
+[guruLsp]2025/11/15 21:44:43 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/15 21:44:52 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/15 21:47:40 main.go:16: Logger is initialised
+[guruLsp]2025/11/15 21:47:40 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/15 21:47:40 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/15 21:47:40 main.go:63: Sent initialize response response
+[guruLsp]2025/11/15 21:47:40 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/15 21:47:51 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/15 21:49:59 main.go:16: Logger is initialised
+[guruLsp]2025/11/15 21:49:59 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/15 21:49:59 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/15 21:49:59 main.go:63: Sent initialize response response
+[guruLsp]2025/11/15 21:49:59 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/15 21:50:57 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/15 21:52:13 main.go:16: Logger is initialised
+[guruLsp]2025/11/15 21:52:13 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/15 21:52:13 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/15 21:52:13 main.go:63: Sent initialize response response
+[guruLsp]2025/11/15 21:52:13 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/15 21:55:08 main.go:67: Recieved Method: textDocument/didOpen 
+[guruLsp]2025/11/15 21:55:08 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/15 21:55:20 main.go:67: Recieved Method: textDocument/didClose 
+[guruLsp]2025/11/15 21:56:19 main.go:67: Recieved Method: textDocument/didOpen 
+[guruLsp]2025/11/15 21:56:19 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/15 21:56:20 main.go:67: Recieved Method: textDocument/didClose 
+[guruLsp]2025/11/15 22:03:38 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/15 22:03:57 main.go:16: Logger is initialised
+[guruLsp]2025/11/15 22:03:57 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/15 22:03:57 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/15 22:03:57 main.go:63: Sent initialize response response
+[guruLsp]2025/11/15 22:03:57 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/15 22:04:36 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/15 22:04:48 main.go:16: Logger is initialised
+[guruLsp]2025/11/15 22:04:48 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/15 22:04:48 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/15 22:04:48 main.go:63: Sent initialize response response
+[guruLsp]2025/11/15 22:04:49 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/15 22:04:56 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/15 22:05:11 main.go:16: Logger is initialised
+[guruLsp]2025/11/15 22:05:11 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/15 22:05:11 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/15 22:05:11 main.go:63: Sent initialize response response
+[guruLsp]2025/11/15 22:05:11 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/15 22:05:47 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/15 22:06:06 main.go:16: Logger is initialised
+[guruLsp]2025/11/15 22:06:06 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/15 22:06:06 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/15 22:06:06 main.go:63: Sent initialize response response
+[guruLsp]2025/11/15 22:06:06 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/15 22:08:23 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/15 22:08:40 main.go:16: Logger is initialised
+[guruLsp]2025/11/15 22:08:40 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/15 22:08:40 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/15 22:08:40 main.go:63: Sent initialize response response
+[guruLsp]2025/11/15 22:08:40 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/15 22:09:10 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/15 22:15:42 main.go:16: Logger is initialised
+[guruLsp]2025/11/15 22:15:42 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/15 22:15:42 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/15 22:15:42 main.go:63: Sent initialize response response
+[guruLsp]2025/11/15 22:15:42 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/15 22:15:52 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/15 22:15:56 main.go:16: Logger is initialised
+[guruLsp]2025/11/15 22:15:56 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/15 22:15:56 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/15 22:15:56 main.go:63: Sent initialize response response
+[guruLsp]2025/11/15 22:15:56 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/15 22:16:08 main.go:67: Recieved Method: textDocument/didOpen 
+[guruLsp]2025/11/15 22:16:08 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/15 22:16:19 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/15 22:19:55 main.go:16: Logger is initialised
+[guruLsp]2025/11/15 22:19:55 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/15 22:19:55 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/15 22:19:55 main.go:63: Sent initialize response response
+[guruLsp]2025/11/15 22:19:55 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/15 22:20:12 main.go:67: Recieved Method: textDocument/didOpen 
+[guruLsp]2025/11/15 22:20:12 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/15 22:24:24 main.go:67: Recieved Method: textDocument/didClose 
+[guruLsp]2025/11/15 22:31:21 main.go:67: Recieved Method: textDocument/didOpen 
+[guruLsp]2025/11/15 22:31:21 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/15 22:31:24 main.go:67: Recieved Method: textDocument/didClose 
+[guruLsp]2025/11/15 22:31:25 main.go:67: Recieved Method: textDocument/didOpen 
+[guruLsp]2025/11/15 22:31:25 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/15 22:31:26 main.go:67: Recieved Method: textDocument/didClose 
+[guruLsp]2025/11/15 22:59:49 main.go:67: Recieved Method: textDocument/didOpen 
+[guruLsp]2025/11/15 22:59:49 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/15 22:59:52 main.go:67: Recieved Method: textDocument/didClose 
+[guruLsp]2025/11/15 23:00:48 main.go:67: Recieved Method: textDocument/didOpen 
+[guruLsp]2025/11/15 23:00:48 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/15 23:00:50 main.go:67: Recieved Method: textDocument/didClose 
+[guruLsp]2025/11/15 23:03:05 main.go:67: Recieved Method: textDocument/didOpen 
+[guruLsp]2025/11/15 23:03:05 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/15 23:03:05 main.go:67: Recieved Method: textDocument/didClose 
+[guruLsp]2025/11/15 23:04:38 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/15 23:04:39 main.go:16: Logger is initialised
+[guruLsp]2025/11/15 23:04:39 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/15 23:04:39 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/15 23:04:39 main.go:63: Sent initialize response response
+[guruLsp]2025/11/15 23:04:39 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/15 23:08:48 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/15 23:10:01 main.go:16: Logger is initialised
+[guruLsp]2025/11/15 23:10:01 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/15 23:10:01 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/15 23:10:01 main.go:63: Sent initialize response response
+[guruLsp]2025/11/15 23:10:01 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/15 23:10:20 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/15 23:14:04 main.go:16: Logger is initialised
+[guruLsp]2025/11/15 23:14:04 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/15 23:14:04 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/15 23:14:04 main.go:63: Sent initialize response response
+[guruLsp]2025/11/15 23:14:04 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/15 23:14:42 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/15 23:14:59 main.go:16: Logger is initialised
+[guruLsp]2025/11/15 23:14:59 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/15 23:14:59 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/15 23:14:59 main.go:63: Sent initialize response response
+[guruLsp]2025/11/15 23:14:59 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/15 23:15:31 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/15 23:17:29 main.go:16: Logger is initialised
+[guruLsp]2025/11/15 23:17:29 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/15 23:17:29 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/15 23:17:29 main.go:63: Sent initialize response response
+[guruLsp]2025/11/15 23:17:29 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/16 07:38:31 main.go:16: Logger is initialised
+[guruLsp]2025/11/16 07:38:31 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/16 07:38:31 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/16 07:38:31 main.go:63: Sent initialize response response
+[guruLsp]2025/11/16 07:38:31 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/16 07:48:28 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/16 07:48:30 main.go:16: Logger is initialised
+[guruLsp]2025/11/16 07:48:30 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/16 07:48:30 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/16 07:48:30 main.go:63: Sent initialize response response
+[guruLsp]2025/11/16 07:48:30 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/16 07:49:14 main.go:67: Recieved Method: textDocument/didOpen 
+[guruLsp]2025/11/16 07:49:14 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/16 07:49:17 main.go:67: Recieved Method: textDocument/didClose 
+[guruLsp]2025/11/16 07:51:14 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/16 07:51:33 main.go:16: Logger is initialised
+[guruLsp]2025/11/16 07:51:33 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/16 07:51:33 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/16 07:51:33 main.go:63: Sent initialize response response
+[guruLsp]2025/11/16 07:51:34 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/16 07:51:45 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/16 07:51:47 main.go:16: Logger is initialised
+[guruLsp]2025/11/16 07:51:47 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/16 07:51:47 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/16 07:51:47 main.go:63: Sent initialize response response
+[guruLsp]2025/11/16 07:51:47 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/16 07:51:48 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/16 07:52:36 main.go:16: Logger is initialised
+[guruLsp]2025/11/16 07:52:36 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/16 07:52:36 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/16 07:52:36 main.go:63: Sent initialize response response
+[guruLsp]2025/11/16 07:52:36 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/16 07:52:57 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/16 07:53:22 main.go:16: Logger is initialised
+[guruLsp]2025/11/16 07:53:22 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/16 07:53:22 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/16 07:53:22 main.go:63: Sent initialize response response
+[guruLsp]2025/11/16 07:53:22 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/16 07:56:30 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/16 08:13:26 main.go:16: Logger is initialised
+[guruLsp]2025/11/16 08:13:26 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/16 08:13:26 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/16 08:13:26 main.go:63: Sent initialize response response
+[guruLsp]2025/11/16 08:13:26 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/16 08:16:11 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/16 16:19:50 main.go:16: Logger is initialised
+[guruLsp]2025/11/16 16:19:50 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/16 16:19:50 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/16 16:19:50 main.go:63: Sent initialize response response
+[guruLsp]2025/11/16 16:19:50 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/16 16:19:56 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/16 17:22:59 main.go:16: Logger is initialised
+[guruLsp]2025/11/16 17:22:59 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/16 17:22:59 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/16 17:22:59 main.go:63: Sent initialize response response
+[guruLsp]2025/11/16 17:22:59 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/16 17:23:12 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/16 18:36:47 main.go:16: Logger is initialised
+[guruLsp]2025/11/16 18:36:47 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/16 18:36:47 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/16 18:36:47 main.go:63: Sent initialize response response
+[guruLsp]2025/11/16 18:36:47 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/16 18:51:25 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/16 18:51:27 main.go:16: Logger is initialised
+[guruLsp]2025/11/16 18:51:27 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/16 18:51:27 main.go:74: Connected to: Neovim 	 version: 0.11.4+v0.11.4
+[guruLsp]2025/11/16 18:51:27 main.go:63: Sent initialize response response
+[guruLsp]2025/11/16 18:51:27 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/16 18:52:29 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/16 20:29:11 main.go:16: Logger is initialised
+[guruLsp]2025/11/16 20:29:11 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/16 20:29:11 main.go:74: Connected to: Neovim 	 version: 0.11.5+v0.11.5
+[guruLsp]2025/11/16 20:29:11 main.go:63: Sent initialize response response
+[guruLsp]2025/11/16 20:29:11 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/16 20:29:27 main.go:67: Recieved Method: textDocument/didOpen 
+[guruLsp]2025/11/16 20:29:27 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/16 20:29:28 main.go:67: Recieved Method: textDocument/didClose 
+[guruLsp]2025/11/16 20:29:29 main.go:67: Recieved Method: textDocument/didOpen 
+[guruLsp]2025/11/16 20:29:29 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/16 20:29:30 main.go:67: Recieved Method: textDocument/didClose 
+[guruLsp]2025/11/16 20:29:31 main.go:67: Recieved Method: textDocument/didOpen 
+[guruLsp]2025/11/16 20:29:31 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/16 20:29:32 main.go:67: Recieved Method: textDocument/didClose 
+[guruLsp]2025/11/16 20:29:35 main.go:67: Recieved Method: textDocument/didOpen 
+[guruLsp]2025/11/16 20:29:35 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/16 20:29:37 main.go:67: Recieved Method: textDocument/didClose 
+[guruLsp]2025/11/16 20:29:54 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/16 20:30:29 main.go:16: Logger is initialised
+[guruLsp]2025/11/16 20:30:29 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/16 20:30:29 main.go:74: Connected to: Neovim 	 version: 0.11.5+v0.11.5
+[guruLsp]2025/11/16 20:30:29 main.go:63: Sent initialize response response
+[guruLsp]2025/11/16 20:30:29 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/16 20:30:58 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/16 20:32:09 main.go:16: Logger is initialised
+[guruLsp]2025/11/16 20:32:09 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/16 20:32:09 main.go:74: Connected to: Neovim 	 version: 0.11.5+v0.11.5
+[guruLsp]2025/11/16 20:32:09 main.go:63: Sent initialize response response
+[guruLsp]2025/11/16 20:32:09 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/16 21:01:37 main.go:67: Recieved Method: textDocument/didOpen 
+[guruLsp]2025/11/16 21:01:37 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/16 21:01:40 main.go:67: Recieved Method: textDocument/didClose 
+[guruLsp]2025/11/16 21:13:57 main.go:67: Recieved Method: textDocument/didOpen 
+[guruLsp]2025/11/16 21:13:57 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/16 21:13:59 main.go:67: Recieved Method: textDocument/didClose 
+[guruLsp]2025/11/16 21:34:47 main.go:67: Recieved Method: textDocument/didOpen 
+[guruLsp]2025/11/16 21:34:47 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/16 21:34:49 main.go:67: Recieved Method: textDocument/didClose 
+[guruLsp]2025/11/16 21:34:53 main.go:67: Recieved Method: textDocument/didOpen 
+[guruLsp]2025/11/16 21:34:53 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/16 21:34:54 main.go:67: Recieved Method: textDocument/didClose 
+[guruLsp]2025/11/16 21:57:49 main.go:67: Recieved Method: textDocument/didOpen 
+[guruLsp]2025/11/16 21:57:49 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/16 21:57:52 main.go:67: Recieved Method: textDocument/didClose 
+[guruLsp]2025/11/16 21:57:53 main.go:67: Recieved Method: textDocument/didOpen 
+[guruLsp]2025/11/16 21:57:53 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/16 21:57:55 main.go:67: Recieved Method: textDocument/didClose 
+[guruLsp]2025/11/16 22:13:08 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/16 22:13:14 main.go:16: Logger is initialised
+[guruLsp]2025/11/16 22:13:14 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/16 22:13:14 main.go:74: Connected to: Neovim 	 version: 0.11.5+v0.11.5
+[guruLsp]2025/11/16 22:13:14 main.go:63: Sent initialize response response
+[guruLsp]2025/11/16 22:13:14 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/16 22:22:38 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/16 22:22:39 main.go:16: Logger is initialised
+[guruLsp]2025/11/16 22:22:39 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/16 22:22:39 main.go:74: Connected to: Neovim 	 version: 0.11.5+v0.11.5
+[guruLsp]2025/11/16 22:22:39 main.go:63: Sent initialize response response
+[guruLsp]2025/11/16 22:22:39 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/17 08:22:33 main.go:16: Logger is initialised
+[guruLsp]2025/11/17 08:22:33 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/17 08:22:33 main.go:74: Connected to: Neovim 	 version: 0.11.5+v0.11.5
+[guruLsp]2025/11/17 08:22:33 main.go:63: Sent initialize response response
+[guruLsp]2025/11/17 08:22:33 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/17 08:22:34 main.go:67: Recieved Method: textDocument/didOpen 
+[guruLsp]2025/11/17 08:22:34 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/17 08:22:37 main.go:67: Recieved Method: textDocument/didOpen 
+[guruLsp]2025/11/17 08:22:37 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/17 16:12:59 main.go:16: Logger is initialised
+[guruLsp]2025/11/17 16:12:59 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/17 16:12:59 main.go:74: Connected to: Neovim 	 version: 0.11.5+v0.11.5
+[guruLsp]2025/11/17 16:12:59 main.go:63: Sent initialize response response
+[guruLsp]2025/11/17 16:12:59 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/17 18:34:23 main.go:67: Recieved Method: textDocument/didOpen 
+[guruLsp]2025/11/17 18:34:23 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/17 18:34:23 main.go:67: Recieved Method: textDocument/didClose 
+[guruLsp]2025/11/17 18:34:25 main.go:67: Recieved Method: textDocument/didOpen 
+[guruLsp]2025/11/17 18:34:25 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/17 18:34:26 main.go:67: Recieved Method: textDocument/didClose 
+[guruLsp]2025/11/17 19:08:35 main.go:67: Recieved Method: textDocument/didOpen 
+[guruLsp]2025/11/17 19:08:35 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/17 19:08:37 main.go:67: Recieved Method: textDocument/didClose 
+[guruLsp]2025/11/17 20:11:09 main.go:16: Logger is initialised
+[guruLsp]2025/11/17 20:11:09 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/17 20:11:09 main.go:74: Connected to: Neovim 	 version: 0.11.5+v0.11.5
+[guruLsp]2025/11/17 20:11:09 main.go:63: Sent initialize response response
+[guruLsp]2025/11/17 20:11:09 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/17 20:11:10 main.go:67: Recieved Method: textDocument/didOpen 
+[guruLsp]2025/11/17 20:11:10 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/17 20:22:38 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/17 23:18:55 main.go:67: Recieved Method: textDocument/didOpen 
+[guruLsp]2025/11/17 23:18:55 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/17 23:18:57 main.go:67: Recieved Method: textDocument/didClose 
+[guruLsp]2025/11/17 23:19:56 main.go:67: Recieved Method: textDocument/didOpen 
+[guruLsp]2025/11/17 23:19:56 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/17 23:19:57 main.go:67: Recieved Method: textDocument/didClose 
+[guruLsp]2025/11/17 23:53:11 main.go:16: Logger is initialised
+[guruLsp]2025/11/17 23:53:11 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/17 23:53:11 main.go:74: Connected to: Neovim 	 version: 0.11.5+v0.11.5
+[guruLsp]2025/11/17 23:53:11 main.go:63: Sent initialize response response
+[guruLsp]2025/11/17 23:53:11 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/18 00:00:31 main.go:67: Recieved Method: textDocument/didOpen 
+[guruLsp]2025/11/18 00:00:31 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/18 00:00:32 main.go:67: Recieved Method: textDocument/didClose 
+[guruLsp]2025/11/18 00:07:49 main.go:67: Recieved Method: textDocument/didOpen 
+[guruLsp]2025/11/18 00:07:49 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/18 00:07:49 main.go:67: Recieved Method: textDocument/didClose 
+[guruLsp]2025/11/18 00:19:50 main.go:67: Recieved Method: textDocument/didOpen 
+[guruLsp]2025/11/18 00:19:50 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/18 00:19:51 main.go:67: Recieved Method: textDocument/didClose 
+[guruLsp]2025/11/18 00:49:43 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/18 00:49:44 main.go:16: Logger is initialised
+[guruLsp]2025/11/18 00:49:44 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/18 00:49:44 main.go:74: Connected to: Neovim 	 version: 0.11.5+v0.11.5
+[guruLsp]2025/11/18 00:49:44 main.go:63: Sent initialize response response
+[guruLsp]2025/11/18 00:49:44 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/18 01:16:04 main.go:67: Recieved Method: textDocument/didOpen 
+[guruLsp]2025/11/18 01:16:04 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/18 01:16:07 main.go:67: Recieved Method: textDocument/didClose 
+[guruLsp]2025/11/18 01:16:09 main.go:67: Recieved Method: textDocument/didOpen 
+[guruLsp]2025/11/18 01:16:09 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/18 01:16:10 main.go:67: Recieved Method: textDocument/didClose 
+[guruLsp]2025/11/18 01:23:46 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/18 07:39:35 main.go:16: Logger is initialised
+[guruLsp]2025/11/18 07:39:35 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/18 07:39:35 main.go:74: Connected to: Neovim 	 version: 0.11.5+v0.11.5
+[guruLsp]2025/11/18 07:39:35 main.go:63: Sent initialize response response
+[guruLsp]2025/11/18 07:39:35 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/18 08:29:14 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/18 17:54:25 main.go:16: Logger is initialised
+[guruLsp]2025/11/18 17:54:25 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/18 17:54:25 main.go:74: Connected to: Neovim 	 version: 0.11.5+v0.11.5
+[guruLsp]2025/11/18 17:54:25 main.go:63: Sent initialize response response
+[guruLsp]2025/11/18 17:54:25 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/18 17:55:43 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/18 17:55:43 main.go:16: Logger is initialised
+[guruLsp]2025/11/18 17:55:43 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/18 17:55:43 main.go:74: Connected to: Neovim 	 version: 0.11.5+v0.11.5
+[guruLsp]2025/11/18 17:55:43 main.go:63: Sent initialize response response
+[guruLsp]2025/11/18 17:55:43 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/18 18:14:38 main.go:16: Logger is initialised
+[guruLsp]2025/11/18 18:14:38 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/18 18:14:38 main.go:74: Connected to: Neovim 	 version: 0.11.5+v0.11.5
+[guruLsp]2025/11/18 18:14:38 main.go:63: Sent initialize response response
+[guruLsp]2025/11/18 18:14:38 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/18 19:30:48 main.go:67: Recieved Method: textDocument/didOpen 
+[guruLsp]2025/11/18 19:30:48 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/18 19:31:04 main.go:67: Recieved Method: textDocument/didClose 
+[guruLsp]2025/11/18 19:31:12 main.go:67: Recieved Method: textDocument/didOpen 
+[guruLsp]2025/11/18 19:31:12 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/18 19:31:12 main.go:67: Recieved Method: textDocument/didClose 
+[guruLsp]2025/11/18 19:31:13 main.go:67: Recieved Method: textDocument/didOpen 
+[guruLsp]2025/11/18 19:31:13 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/18 19:31:14 main.go:67: Recieved Method: textDocument/didClose 
+[guruLsp]2025/11/18 20:06:53 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/18 20:14:23 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/18 20:15:43 main.go:16: Logger is initialised
+[guruLsp]2025/11/18 20:15:43 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/18 20:15:43 main.go:74: Connected to: Neovim 	 version: 0.11.5+v0.11.5
+[guruLsp]2025/11/18 20:15:43 main.go:63: Sent initialize response response
+[guruLsp]2025/11/18 20:15:43 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/18 20:26:11 main.go:16: Logger is initialised
+[guruLsp]2025/11/18 20:26:11 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/18 20:26:11 main.go:74: Connected to: Neovim 	 version: 0.11.5+v0.11.5
+[guruLsp]2025/11/18 20:26:11 main.go:63: Sent initialize response response
+[guruLsp]2025/11/18 20:26:11 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/18 20:29:02 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/18 20:29:05 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/18 20:30:58 main.go:16: Logger is initialised
+[guruLsp]2025/11/18 20:30:58 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/18 20:30:58 main.go:74: Connected to: Neovim 	 version: 0.11.5+v0.11.5
+[guruLsp]2025/11/18 20:30:58 main.go:63: Sent initialize response response
+[guruLsp]2025/11/18 20:30:58 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/18 20:32:11 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/18 20:32:14 main.go:16: Logger is initialised
+[guruLsp]2025/11/18 20:32:14 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/18 20:32:14 main.go:74: Connected to: Neovim 	 version: 0.11.5+v0.11.5
+[guruLsp]2025/11/18 20:32:14 main.go:63: Sent initialize response response
+[guruLsp]2025/11/18 20:32:14 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/18 20:32:17 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/18 20:32:17 main.go:16: Logger is initialised
+[guruLsp]2025/11/18 20:32:17 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/18 20:32:17 main.go:74: Connected to: Neovim 	 version: 0.11.5+v0.11.5
+[guruLsp]2025/11/18 20:32:17 main.go:63: Sent initialize response response
+[guruLsp]2025/11/18 20:32:17 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/18 20:32:37 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/18 20:32:39 main.go:16: Logger is initialised
+[guruLsp]2025/11/18 20:32:39 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/18 20:32:39 main.go:74: Connected to: Neovim 	 version: 0.11.5+v0.11.5
+[guruLsp]2025/11/18 20:32:39 main.go:63: Sent initialize response response
+[guruLsp]2025/11/18 20:32:39 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/18 20:58:26 main.go:16: Logger is initialised
+[guruLsp]2025/11/18 20:58:26 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/18 20:58:26 main.go:74: Connected to: Neovim 	 version: 0.11.5+v0.11.5
+[guruLsp]2025/11/18 20:58:26 main.go:63: Sent initialize response response
+[guruLsp]2025/11/18 20:58:26 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/18 20:58:51 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/18 22:12:17 main.go:67: Recieved Method: textDocument/didOpen 
+[guruLsp]2025/11/18 22:12:17 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/18 22:12:18 main.go:67: Recieved Method: textDocument/didClose 
+[guruLsp]2025/11/18 22:12:44 main.go:67: Recieved Method: textDocument/didOpen 
+[guruLsp]2025/11/18 22:12:44 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/18 22:12:47 main.go:67: Recieved Method: textDocument/didClose 
+[guruLsp]2025/11/18 22:30:53 main.go:16: Logger is initialised
+[guruLsp]2025/11/18 22:30:53 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/18 22:30:53 main.go:74: Connected to: Neovim 	 version: 0.11.5+v0.11.5
+[guruLsp]2025/11/18 22:30:53 main.go:63: Sent initialize response response
+[guruLsp]2025/11/18 22:30:53 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/18 22:31:04 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/18 22:31:06 main.go:16: Logger is initialised
+[guruLsp]2025/11/18 22:31:06 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/18 22:31:06 main.go:74: Connected to: Neovim 	 version: 0.11.5+v0.11.5
+[guruLsp]2025/11/18 22:31:06 main.go:63: Sent initialize response response
+[guruLsp]2025/11/18 22:31:06 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/18 22:31:10 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/18 22:31:11 main.go:16: Logger is initialised
+[guruLsp]2025/11/18 22:31:11 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/18 22:31:11 main.go:74: Connected to: Neovim 	 version: 0.11.5+v0.11.5
+[guruLsp]2025/11/18 22:31:11 main.go:63: Sent initialize response response
+[guruLsp]2025/11/18 22:31:11 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/18 22:36:13 main.go:67: Recieved Method: textDocument/didOpen 
+[guruLsp]2025/11/18 22:36:13 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/18 22:36:16 main.go:67: Recieved Method: textDocument/didClose 
+[guruLsp]2025/11/18 22:36:19 main.go:67: Recieved Method: textDocument/didOpen 
+[guruLsp]2025/11/18 22:36:19 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/18 22:36:20 main.go:67: Recieved Method: textDocument/didClose 
+[guruLsp]2025/11/18 22:57:23 main.go:67: Recieved Method: textDocument/didOpen 
+[guruLsp]2025/11/18 22:57:23 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/18 22:57:26 main.go:67: Recieved Method: textDocument/didClose 
+[guruLsp]2025/11/18 23:03:42 main.go:67: Recieved Method: textDocument/didOpen 
+[guruLsp]2025/11/18 23:03:42 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/18 23:03:47 main.go:67: Recieved Method: textDocument/didClose 
+[guruLsp]2025/11/18 23:03:48 main.go:67: Recieved Method: textDocument/didOpen 
+[guruLsp]2025/11/18 23:03:48 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/18 23:04:05 main.go:67: Recieved Method: textDocument/didClose 
+[guruLsp]2025/11/18 23:32:33 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/19 07:58:18 main.go:16: Logger is initialised
+[guruLsp]2025/11/19 07:58:18 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/19 07:58:18 main.go:74: Connected to: Neovim 	 version: 0.11.5+v0.11.5
+[guruLsp]2025/11/19 07:58:18 main.go:63: Sent initialize response response
+[guruLsp]2025/11/19 07:58:18 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/19 07:58:40 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/19 07:59:15 main.go:16: Logger is initialised
+[guruLsp]2025/11/19 07:59:15 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/19 07:59:15 main.go:74: Connected to: Neovim 	 version: 0.11.5+v0.11.5
+[guruLsp]2025/11/19 07:59:15 main.go:63: Sent initialize response response
+[guruLsp]2025/11/19 07:59:15 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/19 07:59:33 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/19 08:04:18 main.go:16: Logger is initialised
+[guruLsp]2025/11/19 08:04:18 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/19 08:04:18 main.go:74: Connected to: Neovim 	 version: 0.11.5+v0.11.5
+[guruLsp]2025/11/19 08:04:18 main.go:63: Sent initialize response response
+[guruLsp]2025/11/19 08:04:18 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/19 08:05:53 main.go:67: Recieved Method: textDocument/didOpen 
+[guruLsp]2025/11/19 08:05:53 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/19 08:06:45 main.go:67: Recieved Method: textDocument/didClose 
+[guruLsp]2025/11/19 08:10:29 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/19 08:11:40 main.go:16: Logger is initialised
+[guruLsp]2025/11/19 08:11:40 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/19 08:11:40 main.go:74: Connected to: Neovim 	 version: 0.11.5+v0.11.5
+[guruLsp]2025/11/19 08:11:40 main.go:63: Sent initialize response response
+[guruLsp]2025/11/19 08:11:40 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/19 08:12:16 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/19 08:12:44 main.go:16: Logger is initialised
+[guruLsp]2025/11/19 08:12:44 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/19 08:12:44 main.go:74: Connected to: Neovim 	 version: 0.11.5+v0.11.5
+[guruLsp]2025/11/19 08:12:44 main.go:63: Sent initialize response response
+[guruLsp]2025/11/19 08:12:44 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/19 08:15:22 main.go:67: Recieved Method: textDocument/didOpen 
+[guruLsp]2025/11/19 08:15:22 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/19 08:15:39 main.go:67: Recieved Method: textDocument/didClose 
+[guruLsp]2025/11/19 08:15:52 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/19 08:16:00 main.go:16: Logger is initialised
+[guruLsp]2025/11/19 08:16:00 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/19 08:16:00 main.go:74: Connected to: Neovim 	 version: 0.11.5+v0.11.5
+[guruLsp]2025/11/19 08:16:00 main.go:63: Sent initialize response response
+[guruLsp]2025/11/19 08:16:00 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/19 08:17:20 main.go:67: Recieved Method: textDocument/didOpen 
+[guruLsp]2025/11/19 08:17:20 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/19 08:17:22 main.go:67: Recieved Method: textDocument/didClose 
+[guruLsp]2025/11/19 08:18:16 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/19 08:18:32 main.go:16: Logger is initialised
+[guruLsp]2025/11/19 08:18:32 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/19 08:18:32 main.go:74: Connected to: Neovim 	 version: 0.11.5+v0.11.5
+[guruLsp]2025/11/19 08:18:32 main.go:63: Sent initialize response response
+[guruLsp]2025/11/19 08:18:32 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/19 08:20:07 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/19 08:20:34 main.go:16: Logger is initialised
+[guruLsp]2025/11/19 08:20:34 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/19 08:20:34 main.go:74: Connected to: Neovim 	 version: 0.11.5+v0.11.5
+[guruLsp]2025/11/19 08:20:34 main.go:63: Sent initialize response response
+[guruLsp]2025/11/19 08:20:34 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/19 08:21:30 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/19 08:25:20 main.go:16: Logger is initialised
+[guruLsp]2025/11/19 08:25:20 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/19 08:25:20 main.go:74: Connected to: Neovim 	 version: 0.11.5+v0.11.5
+[guruLsp]2025/11/19 08:25:20 main.go:63: Sent initialize response response
+[guruLsp]2025/11/19 08:25:20 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/19 08:26:42 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/19 08:27:26 main.go:16: Logger is initialised
+[guruLsp]2025/11/19 08:27:26 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/19 08:27:26 main.go:74: Connected to: Neovim 	 version: 0.11.5+v0.11.5
+[guruLsp]2025/11/19 08:27:26 main.go:63: Sent initialize response response
+[guruLsp]2025/11/19 08:27:26 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/19 08:28:40 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/19 08:32:33 main.go:16: Logger is initialised
+[guruLsp]2025/11/19 08:32:33 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/19 08:32:33 main.go:74: Connected to: Neovim 	 version: 0.11.5+v0.11.5
+[guruLsp]2025/11/19 08:32:33 main.go:63: Sent initialize response response
+[guruLsp]2025/11/19 08:32:33 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/19 08:34:06 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/19 08:34:07 main.go:16: Logger is initialised
+[guruLsp]2025/11/19 08:34:07 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/19 08:34:07 main.go:74: Connected to: Neovim 	 version: 0.11.5+v0.11.5
+[guruLsp]2025/11/19 08:34:07 main.go:63: Sent initialize response response
+[guruLsp]2025/11/19 08:34:07 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/19 08:35:58 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/19 08:38:27 main.go:16: Logger is initialised
+[guruLsp]2025/11/19 08:38:27 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/19 08:38:27 main.go:74: Connected to: Neovim 	 version: 0.11.5+v0.11.5
+[guruLsp]2025/11/19 08:38:27 main.go:63: Sent initialize response response
+[guruLsp]2025/11/19 08:38:27 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/19 08:40:56 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/19 08:41:33 main.go:16: Logger is initialised
+[guruLsp]2025/11/19 08:41:33 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/19 08:41:33 main.go:74: Connected to: Neovim 	 version: 0.11.5+v0.11.5
+[guruLsp]2025/11/19 08:41:33 main.go:63: Sent initialize response response
+[guruLsp]2025/11/19 08:41:33 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/19 08:43:32 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/19 08:55:52 main.go:16: Logger is initialised
+[guruLsp]2025/11/19 08:55:52 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/19 08:55:52 main.go:74: Connected to: Neovim 	 version: 0.11.5+v0.11.5
+[guruLsp]2025/11/19 08:55:52 main.go:63: Sent initialize response response
+[guruLsp]2025/11/19 08:55:52 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/19 08:56:18 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/19 16:07:05 main.go:16: Logger is initialised
+[guruLsp]2025/11/19 16:07:05 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/19 16:07:05 main.go:74: Connected to: Neovim 	 version: 0.11.5+v0.11.5
+[guruLsp]2025/11/19 16:07:05 main.go:63: Sent initialize response response
+[guruLsp]2025/11/19 16:07:05 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/19 16:43:23 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/19 16:43:24 main.go:16: Logger is initialised
+[guruLsp]2025/11/19 16:43:24 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/19 16:43:24 main.go:74: Connected to: Neovim 	 version: 0.11.5+v0.11.5
+[guruLsp]2025/11/19 16:43:24 main.go:63: Sent initialize response response
+[guruLsp]2025/11/19 16:43:24 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/19 16:43:32 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/19 16:43:45 main.go:16: Logger is initialised
+[guruLsp]2025/11/19 16:43:45 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/19 16:43:45 main.go:74: Connected to: Neovim 	 version: 0.11.5+v0.11.5
+[guruLsp]2025/11/19 16:43:45 main.go:63: Sent initialize response response
+[guruLsp]2025/11/19 16:43:45 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/19 17:06:52 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/19 17:06:53 main.go:16: Logger is initialised
+[guruLsp]2025/11/19 17:06:53 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/19 17:06:53 main.go:74: Connected to: Neovim 	 version: 0.11.5+v0.11.5
+[guruLsp]2025/11/19 17:06:53 main.go:63: Sent initialize response response
+[guruLsp]2025/11/19 17:06:53 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/19 20:37:07 main.go:16: Logger is initialised
+[guruLsp]2025/11/19 20:37:07 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/19 20:37:07 main.go:74: Connected to: Neovim 	 version: 0.11.5+v0.11.5
+[guruLsp]2025/11/19 20:37:07 main.go:63: Sent initialize response response
+[guruLsp]2025/11/19 20:37:07 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/19 20:38:41 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/19 21:07:33 main.go:16: Logger is initialised
+[guruLsp]2025/11/19 21:07:33 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/19 21:07:33 main.go:74: Connected to: Neovim 	 version: 0.11.5+v0.11.5
+[guruLsp]2025/11/19 21:07:33 main.go:63: Sent initialize response response
+[guruLsp]2025/11/19 21:07:33 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/19 21:09:38 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/19 21:10:39 main.go:16: Logger is initialised
+[guruLsp]2025/11/19 21:10:39 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/19 21:10:39 main.go:74: Connected to: Neovim 	 version: 0.11.5+v0.11.5
+[guruLsp]2025/11/19 21:10:39 main.go:63: Sent initialize response response
+[guruLsp]2025/11/19 21:10:39 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/19 21:11:06 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/19 21:11:31 main.go:16: Logger is initialised
+[guruLsp]2025/11/19 21:11:31 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/19 21:11:31 main.go:74: Connected to: Neovim 	 version: 0.11.5+v0.11.5
+[guruLsp]2025/11/19 21:11:31 main.go:63: Sent initialize response response
+[guruLsp]2025/11/19 21:11:31 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/19 21:15:34 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/19 21:15:45 main.go:16: Logger is initialised
+[guruLsp]2025/11/19 21:15:45 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/19 21:15:45 main.go:74: Connected to: Neovim 	 version: 0.11.5+v0.11.5
+[guruLsp]2025/11/19 21:15:45 main.go:63: Sent initialize response response
+[guruLsp]2025/11/19 21:15:45 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/19 21:15:56 main.go:67: Recieved Method: textDocument/didOpen 
+[guruLsp]2025/11/19 21:15:56 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/19 21:15:58 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/19 21:15:58 main.go:99: Changed file: file:///home/guruorgoru/projects/http-server/README.md
+[guruLsp]2025/11/19 21:15:58 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/19 21:15:58 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/19 21:15:58 main.go:99: Changed file: file:///home/guruorgoru/projects/http-server/README.md
+[guruLsp]2025/11/19 21:15:58 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/19 21:15:58 main.go:67: Recieved Method: textDocument/completion 
+[guruLsp]2025/11/19 21:15:58 main.go:170: Completion request for file: file:///home/guruorgoru/projects/http-server/README.md
+[guruLsp]2025/11/19 21:15:58 main.go:63: Sent completion response response
+[guruLsp]2025/11/19 21:15:59 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/19 21:15:59 main.go:99: Changed file: file:///home/guruorgoru/projects/http-server/README.md
+[guruLsp]2025/11/19 21:15:59 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/19 21:15:59 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/19 21:15:59 main.go:99: Changed file: file:///home/guruorgoru/projects/http-server/README.md
+[guruLsp]2025/11/19 21:15:59 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/19 21:15:59 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/19 21:15:59 main.go:99: Changed file: file:///home/guruorgoru/projects/http-server/README.md
+[guruLsp]2025/11/19 21:15:59 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/19 21:15:59 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/19 21:15:59 main.go:99: Changed file: file:///home/guruorgoru/projects/http-server/README.md
+[guruLsp]2025/11/19 21:15:59 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/19 21:16:00 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/19 21:16:00 main.go:99: Changed file: file:///home/guruorgoru/projects/http-server/README.md
+[guruLsp]2025/11/19 21:16:00 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/19 21:16:00 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/19 21:16:00 main.go:99: Changed file: file:///home/guruorgoru/projects/http-server/README.md
+[guruLsp]2025/11/19 21:16:00 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/19 21:16:00 main.go:67: Recieved Method: textDocument/completion 
+[guruLsp]2025/11/19 21:16:00 main.go:170: Completion request for file: file:///home/guruorgoru/projects/http-server/README.md
+[guruLsp]2025/11/19 21:16:00 main.go:63: Sent completion response response
+[guruLsp]2025/11/19 21:16:00 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/19 21:16:00 main.go:99: Changed file: file:///home/guruorgoru/projects/http-server/README.md
+[guruLsp]2025/11/19 21:16:00 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/19 21:16:00 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/19 21:16:00 main.go:99: Changed file: file:///home/guruorgoru/projects/http-server/README.md
+[guruLsp]2025/11/19 21:16:00 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/19 21:16:01 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/19 21:16:01 main.go:99: Changed file: file:///home/guruorgoru/projects/http-server/README.md
+[guruLsp]2025/11/19 21:16:01 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/19 21:16:02 main.go:67: Recieved Method: textDocument/didSave 
+[guruLsp]2025/11/19 21:16:02 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/19 21:16:12 main.go:16: Logger is initialised
+[guruLsp]2025/11/19 21:16:12 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/19 21:16:12 main.go:74: Connected to: Neovim 	 version: 0.11.5+v0.11.5
+[guruLsp]2025/11/19 21:16:12 main.go:63: Sent initialize response response
+[guruLsp]2025/11/19 21:16:12 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/19 21:21:12 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/19 21:22:01 main.go:16: Logger is initialised
+[guruLsp]2025/11/19 21:22:01 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/19 21:22:01 main.go:74: Connected to: Neovim 	 version: 0.11.5+v0.11.5
+[guruLsp]2025/11/19 21:22:01 main.go:63: Sent initialize response response
+[guruLsp]2025/11/19 21:22:01 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/19 21:49:36 main.go:16: Logger is initialised
+[guruLsp]2025/11/19 21:49:36 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/19 21:49:36 main.go:74: Connected to: Neovim 	 version: 0.11.5+v0.11.5
+[guruLsp]2025/11/19 21:49:36 main.go:63: Sent initialize response response
+[guruLsp]2025/11/19 21:49:37 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/19 21:50:14 main.go:67: Recieved Method: shutdown 
+[guruLsp]2025/11/19 21:50:17 main.go:16: Logger is initialised
+[guruLsp]2025/11/19 21:50:27 main.go:16: Logger is initialised
+[guruLsp]2025/11/19 21:50:27 main.go:67: Recieved Method: initialize 
+[guruLsp]2025/11/19 21:50:27 main.go:74: Connected to: Neovim 	 version: 0.11.5+v0.11.5
+[guruLsp]2025/11/19 21:50:27 main.go:63: Sent initialize response response
+[guruLsp]2025/11/19 21:50:27 main.go:67: Recieved Method: initialized 
+[guruLsp]2025/11/19 21:50:28 main.go:67: Recieved Method: textDocument/didOpen 
+[guruLsp]2025/11/19 21:50:28 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/19 21:50:36 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/19 21:50:36 main.go:99: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/19 21:50:36 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/19 21:50:36 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/19 21:50:36 main.go:99: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/19 21:50:36 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/19 21:50:37 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/19 21:50:37 main.go:99: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/19 21:50:37 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/19 21:50:37 main.go:67: Recieved Method: textDocument/completion 
+[guruLsp]2025/11/19 21:50:37 main.go:170: Completion request for file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/19 21:50:37 main.go:63: Sent completion response response
+[guruLsp]2025/11/19 21:50:37 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/19 21:50:37 main.go:99: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/19 21:50:37 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/19 21:50:37 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/19 21:50:37 main.go:99: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/19 21:50:37 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/19 21:50:38 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/19 21:50:38 main.go:99: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/19 21:50:38 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/19 21:50:39 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/19 21:50:39 main.go:99: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/19 21:50:39 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/19 21:50:39 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/19 21:50:39 main.go:99: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/19 21:50:39 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/19 21:50:39 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/19 21:50:39 main.go:99: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/19 21:50:39 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/19 21:50:39 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/19 21:50:39 main.go:99: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/19 21:50:39 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/19 21:50:40 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/19 21:50:40 main.go:99: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/19 21:50:40 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/19 21:50:40 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/19 21:50:40 main.go:99: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/19 21:50:40 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/19 21:50:40 main.go:67: Recieved Method: textDocument/completion 
+[guruLsp]2025/11/19 21:50:40 main.go:170: Completion request for file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/19 21:50:40 main.go:63: Sent completion response response
+[guruLsp]2025/11/19 21:50:41 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/19 21:50:41 main.go:99: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/19 21:50:41 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/19 21:50:42 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/19 21:50:42 main.go:99: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/19 21:50:42 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/19 21:50:42 main.go:67: Recieved Method: textDocument/completion 
+[guruLsp]2025/11/19 21:50:42 main.go:170: Completion request for file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/19 21:50:42 main.go:63: Sent completion response response
+[guruLsp]2025/11/19 21:50:42 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/19 21:50:42 main.go:99: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/19 21:50:42 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/19 21:50:43 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/19 21:50:43 main.go:99: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/19 21:50:43 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/19 21:50:43 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/19 21:50:43 main.go:99: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/19 21:50:43 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/19 21:50:45 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/19 21:50:45 main.go:99: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/19 21:50:45 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/19 21:50:45 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/19 21:50:45 main.go:99: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/19 21:50:45 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/19 21:51:07 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/19 21:51:07 main.go:99: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/19 21:51:07 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/19 21:51:07 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/19 21:51:07 main.go:99: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/19 21:51:07 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/19 21:51:08 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/19 21:51:08 main.go:99: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/19 21:51:08 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/19 21:51:08 main.go:67: Recieved Method: textDocument/completion 
+[guruLsp]2025/11/19 21:51:08 main.go:170: Completion request for file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/19 21:51:08 main.go:63: Sent completion response response
+[guruLsp]2025/11/19 21:51:08 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/19 21:51:08 main.go:99: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/19 21:51:08 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/19 21:51:09 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/19 21:51:09 main.go:99: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/19 21:51:09 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/19 21:51:09 main.go:67: Recieved Method: textDocument/didChange 
+[guruLsp]2025/11/19 21:51:09 main.go:99: Changed file: file:///home/guruorgoru/projects/oval/kl.md
+[guruLsp]2025/11/19 21:51:09 main.go:63: Sent diagnostic notification response
+[guruLsp]2025/11/19 21:52:16 main.go:67: Recieved Method: shutdown 
